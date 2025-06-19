@@ -17,14 +17,8 @@
 
 ## 🚀 运行示例
 
-原始三元组抽取 + 可视化：
 ```bash
-python main.py --input input.txt
-```
-
-启用 Graph-CoT 推理增强：
-```bash
-python main.py --input input.txt --graphcot
+python -m src.generate_graph --input input.txt --output output.html --triples output.json
 ```
 
 ## ⚙️ 新增配置项说明（config.toml）
