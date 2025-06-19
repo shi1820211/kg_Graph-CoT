@@ -1,0 +1,1012 @@
+[
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "急性肝损伤"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "急性传染性肝炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "药物中毒"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "酒精中毒"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "慢性肝炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "脂肪肝"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝硬化"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝癌"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝淤血"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胆石症"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胆囊炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胰腺炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心肌梗死"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心肌炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心力衰竭"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "氯丙嗪"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "异菸肼"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "奎宁"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "水杨酸制剂"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "参考区间",
+    "object": "7～40U/L"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "方法",
+    "object": "速率法（5，-磷酸吡哆醛）"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "标准",
+    "object": "WS/T 404.1—2012"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "参考区间",
+    "object": "9～60U/L"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "方法",
+    "object": "速率法（5，-磷酸吡哆醛）"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "标准",
+    "object": "WS/T 404.1—2012"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "参考区间",
+    "object": "7～45U/L"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "方法",
+    "object": "速率法（5，-磷酸吡哆醛）"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "标准",
+    "object": "WS/T 404.1—2012"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "参考区间",
+    "object": "9～50U/L"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "方法",
+    "object": "速率法（5，-磷酸吡哆醛）"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "标准",
+    "object": "WS/T 404.1—2012"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肝"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肾"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "心肌"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "骨骼肌"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "胰腺"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "脾"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肺"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "红细胞"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "血浆"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "胆汁"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "脑脊液"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "涎液"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "检测",
+    "object": "肝脏疾病"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝硬化"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝癌"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝脓肿"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "脂肪肝"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胆管炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胆囊炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心肌炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心肌梗死"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心力衰竭"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "骨骼肌疾病"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "传染性单核细胞增多症"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "胰腺炎"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "外伤"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "严重烧伤"
+  },
+  {
+    "subject": "丙氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "休克"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "严重烫伤"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "败血症"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "疟疾"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "血型不合输血"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "脾功能亢进"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "恶性贫血"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "珠蛋白生成障碍性贫血"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "铅中毒"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "新生儿生理性黄疸"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "药物性黄疸"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "体质性黄疸"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "升高",
+    "object": "哺乳性黄疸"
+  },
+  {
+    "subject": "间接胆红素",
+    "predicate": "参考区间",
+    "object": "＞19μmol/L"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "急性肝炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "慢性肝炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肝硬化"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "酒精性肝炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "原发性肝癌"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "急性心肌梗死"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心包炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "心肌炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "进行性肌营养不良"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "皮肌炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肺栓塞"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "急性胰腺炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "肌肉挫伤"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "坏疽"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "升高",
+    "object": "溶血性疾病"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "心肌"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肝"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "骨骼肌"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肾"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "胰腺"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "脾"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "肺"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "红细胞"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "血浆"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "胆汁"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "脑脊液"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "存在",
+    "object": "涎液"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "诊断",
+    "object": "心肌梗死"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "丙氨酸氨基转移酶"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "肝病诊断"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "急性病毒性肝炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "慢性肝炎"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "肝硬化"
+  },
+  {
+    "subject": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+    "predicate": "比值",
+    "object": "原发性肝癌"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "生理性升高"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "服用雌激素"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "口服避孕药"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "妊娠"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "月经"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "病毒性肝炎"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "代偿性肝硬化"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "胆管阻塞"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "胆总管阻塞"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "肝内胆道阻塞"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "肝梅毒"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "中毒性肝炎"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "急性黄疸性肝萎缩"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "黄热病"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "Weil钩端螺旋体病"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "X线深部照射"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "乳糜泻"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "升高",
+    "object": "肾功能不全"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "参考区间",
+    "object": "≤4.0µmol/L"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "方法",
+    "object": "重氮法"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "标准",
+    "object": "WS/T 404.4—2018"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "参考区间",
+    "object": "≤8.0µmol/L"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "方法",
+    "object": "重氮法"
+  },
+  {
+    "subject": "直接胆红素",
+    "predicate": "标准",
+    "object": "WS/T 404.4—2018"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "组成",
+    "object": "胆汁"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "来源",
+    "object": "血红素蛋白"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "消化吸收"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "黄疸形成"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "类型",
+    "object": "非结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "类型",
+    "object": "结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "类型",
+    "object": "总胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "肠道细菌"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "尿胆原"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "尿胆素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "代谢",
+    "object": "粪胆素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "循环",
+    "object": "肠肝循环"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "非结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "总胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "分类",
+    "object": "α胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "分类",
+    "object": "β胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "分类",
+    "object": "γ胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "分类",
+    "object": "δ胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "溶解度",
+    "object": "非结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "溶解度",
+    "object": "结合胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "偶氮反应"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "直接反应胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "间接反应胆红素"
+  },
+  {
+    "subject": "胆红素",
+    "predicate": "检测",
+    "object": "总胆红素"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "计算",
+    "object": "非结合胆红素"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "计算",
+    "object": "结合胆红素"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "判断",
+    "object": "黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "判断",
+    "object": "黄疸程度"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "判断",
+    "object": "黄疸类型"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "判断",
+    "object": "黄疸原因"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "判断",
+    "object": "预后"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "参考区间",
+    "object": "≤26.0µmol/L"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "参考区间",
+    "object": "≤21.0µmol/L"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "参考区间",
+    "object": "≤23.0µmol/L"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "方法",
+    "object": "重氮法/矾酸盐氧化法"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "标准",
+    "object": "WS/T 404.4—2018"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "隐性黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "显性黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "轻度黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "中度黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "重度黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "溶血性黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "肝细胞性黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "梗阻性黄疸"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "溶血"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "输血反应"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "大面积烧伤"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "大血肿吸收"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "肝实质性损伤"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆道阻塞"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆汁淤积"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆石症"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胰头癌"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆道肿瘤"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆管炎"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "胆道闭锁"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "病毒性肝炎"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "原发性胆汁性肝硬化"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "肝内泥沙样结石"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "癌栓"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "华支睾吸虫病"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "Dubin-Johnson综合征"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "Rotor综合征"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "升高",
+    "object": "δ胆红素"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "黄疸诊断"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "黄疸鉴别诊断"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "黄疸程度判断"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "黄疸类型判断"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "黄疸原因分析"
+  },
+  {
+    "subject": "总胆红素",
+    "predicate": "检测",
+    "object": "预后评估"
+  }
+]
